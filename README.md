@@ -10,6 +10,6 @@ The era of big science promises rapid growth of scientific innovations and compl
 __keywords__: Hyperauthorship, human genome project, co-authorship networks, author byline
 
 ### Paper and Poster
-Link to Paper
+[Link to Paper](http://hdl.handle.net/2142/101870)
 
 [Link to Poster](https://github.com/yiyunyc2/ASIST18/blob/master/Poster/ASIST-MiddleOfByline-2018Poster.pdf)
