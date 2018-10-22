@@ -1,4 +1,4 @@
-# ASIST18
+# ASIS&T18
 ## Middle of the (by)line: Examining hyperauthorship networks in the Human Genome Project
 Authors: Ly Dinh, Yi-Yun Cheng
 
@@ -12,4 +12,4 @@ __keywords__: Hyperauthorship, human genome project, co-authorship networks, aut
 ### Paper and Poster
 Link to Paper
 
-Link to Poster
+[Link to Poster](https://github.com/yiyunyc2/ASIST18/blob/master/Poster/ASIST-MiddleOfByline-2018Poster.pdf)
