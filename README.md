@@ -21,4 +21,4 @@ __keywords__: Hyperauthorship, human genome project, co-authorship networks, aut
 
 - Network dataset: [Edge list](https://github.com/yiyunyc2/ASIST18/blob/master/DatasetsAndCodes/Edgelist_hypernet_n166_e14088.csv) and [Node Attribute List](https://github.com/yiyunyc2/ASIST18/blob/master/DatasetsAndCodes/Node_attributes_n166.csv)
 
-- The induced subgraph of the whole network can be found [here](Extracted Co-Authorship Network.graphml.xml).
+- The induced subgraph of the whole network can be found [here](https://github.com/yiyunyc2/ASIST18/blob/master/DatasetsAndCodes/Extracted%20Co-Authorship%20Network.graphml.xml).
